@@ -1,1 +1,1 @@
-
+git reset --hard HEAD^
