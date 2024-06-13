@@ -23,6 +23,6 @@ Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMemb
 
 ## Certifications
 #### Google Data Analytics Professional Certificate
-<br/>_Credential ID: [SCYNYYCTL542](https://www.coursera.org/account/accomplishments/professional-cert/SCYNYYCTL542)_
+_Credential ID: [SCYNYYCTL542](https://www.coursera.org/account/accomplishments/professional-cert/SCYNYYCTL542)_
 #### CFA Institute Investment Foundations
-<br/>_Credential ID: [r3ulxckl](https://basno.com/r3ulxckl)_
+_Credential ID: [r3ulxckl](https://basno.com/r3ulxckl)_
