@@ -1,6 +1,6 @@
 title: Derrick
 description: I created this website as a portfolio for my data analysis projects 
 show_downloads: True
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-theme-minimal
+- jekyll-remote-theme
