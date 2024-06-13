@@ -7,7 +7,7 @@
 Developed marketing strategy to convert casual riders into annual members of Divvy, a bikesharing system based in Chicago. 
 Analyzed the differences in riding behavior between casual riders and annual members in SQL. 
 Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMembershipRidingBehavior/DIvvyMembershipRidingData?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
-<img src= "/assets/images/divvy_dashboard.png" width="400"/>
+<img src= "/assets/images/divvy_dashboard.png" width="600"/>
 
 ## Education
 **University at Buffalo, SG | (_August 2022 - Present_)** <br/>
