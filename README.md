@@ -1,2 +1,2 @@
 # Data Portfolio
-Welcom! This place holds and will hold all my future data projects.
+Welcome! This place holds and will hold all my future data projects.
