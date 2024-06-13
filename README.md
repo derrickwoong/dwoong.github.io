@@ -19,7 +19,7 @@
 <br/>_Head-of-Training (June 2024 - Present)_
 
 <br/>_Associate (October 2023 - June 2024)_
-<br/>- Participated in the Singapore Business Case Competition 2024 and the Singapore Insurance Case Competition 2024
+-- Participated in the Singapore Business Case Competition 2024 and the Singapore Insurance Case Competition 2024
 
 ## Certifications
 - Google Data Analytics Professional Certificate
