@@ -22,7 +22,8 @@ Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMemb
 - Participated in the Singapore Business Case Competition 2024 and the Singapore Insurance Case Competition 2024
 
 ## Certifications
-- Google Data Analytics Professional Certificate
-  - Credential ID: [SCYNYYCTL542](https://www.coursera.org/account/accomplishments/professional-cert/SCYNYYCTL542) 
-- CFA Institute Investment Foundations
-  - Credential ID: [r3ulxckl](https://basno.com/r3ulxckl)
+<br/>Google Data Analytics Professional Certificate
+<br/>Credential ID: [SCYNYYCTL542](https://www.coursera.org/account/accomplishments/professional-cert/SCYNYYCTL542) 
+
+<br/>CFA Institute Investment Foundations
+<br/>Credential ID: [r3ulxckl](https://basno.com/r3ulxckl)
