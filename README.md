@@ -3,9 +3,9 @@
 
 ## Data Projects
 **Google Data Analytics Certificate Capstone**
-<br/>Develop marketing strategy to convert casual riders into annual members of Divvy, a bikesharing system based in Chicago.
-<br/>Analyze the differences in riding behavior between casual riders and annual members in SQL. 
-<br/>Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMembershipRidingBehavior/DIvvyMembershipRidingData?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
+<br/>Develop marketing strategy to convert casual riders into annual members of Divvy, a bikesharing system based in Chicago. 
+Analyze the differences in riding behavior between casual riders and annual members in SQL. 
+Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMembershipRidingBehavior/DIvvyMembershipRidingData?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
 
 ## Education
 **University at Buffalo, SG | (_August 2022 - Present_)** 
