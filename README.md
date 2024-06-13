@@ -3,7 +3,7 @@
 
 ## Data Projects
 ### Google Data Analytics Certificate Capstone
-[[ Documentation ]](/assets/docs/divvy_documentation.pdf)  [[ Dataset ]](/assets/datasets/divvy)<br/>
+[[ Documentation ]](https://github.com/derrickwoong/dwoong.github.io/tree/main/assets/docs/divvy_documentation.pdf)  [[ Dataset ]](https://github.com/derrickwoong/dwoong.github.io/tree/main/assets/datasets/divvy)<br/>
 Developed marketing strategy for Divvy, a bikesharing system based in Chicago, to convert casual riders into annual members.
 Analyzed the differences in riding behavior between casual riders and annual members in SQL.
 Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMembershipRidingBehavior/DIvvyMembershipRidingData?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link). <br/>
