@@ -8,17 +8,17 @@
 <br/>Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMembershipRidingBehavior/DIvvyMembershipRidingData?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
 
 ## Education
-**University at Buffalo, SG   _(August 2022 - Present)_** 
+**University at Buffalo, SG | (_August 2022 - Present_)** 
 <br/>_B.A., Economics_
 
-**Nanyang Polytechnic, SG   _(May 2016 - May 2019)_**
+**Nanyang Polytechnic, SG | (_May 2016 - May 2019_)**
 <br/>*Diploma, Business Intelligence and Analytics*
 
 ## Leadership and Activities
 **SIM Business Strategy Club**
-<br/>_Head-of-Training (June 2024 - Present)_
+<br/>_Head-of-Training | (June 2024 - Present)_
 
-<br/>_Associate (October 2023 - June 2024)_
+<br/>_Associate | (October 2023 - June 2024)_
 - Participated in the Singapore Business Case Competition 2024 and the Singapore Insurance Case Competition 2024
 
 ## Certifications
