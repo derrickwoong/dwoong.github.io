@@ -22,7 +22,7 @@ _Associate | (October 2023 - June 2024)_
 - Participated in the Singapore Business Case Competition 2024 and the Singapore Insurance Case Competition 2024
 
 ## Certifications
-**Google Data Analytics Professional Certificate**  
-_Credential ID: [SCYNYYCTL542](https://www.coursera.org/account/accomplishments/professional-cert/SCYNYYCTL542)_
-**CFA Institute Investment Foundations**  
+**Google Data Analytics Professional Certificate**<br/>
+_Credential ID: [SCYNYYCTL542](https://www.coursera.org/account/accomplishments/professional-cert/SCYNYYCTL542)_<br/>
+**CFA Institute Investment Foundations**<br/>
 _Credential ID: [r3ulxckl](https://basno.com/r3ulxckl)_
