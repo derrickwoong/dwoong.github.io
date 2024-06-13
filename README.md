@@ -3,9 +3,9 @@
 
 ## Data Projects
 ### Google Data Analytics Certificate Capstone
-[[ Documentation ]](/assets/docs/divvy_documentation.pdf) <br/>
+[[ Documentation ]](/assets/docs/divvy_documentation.pdf) [[ Dataset ]](/assets/datasets/divvy)<br/>
 Developed marketing strategy to convert casual riders into annual members of Divvy, a bikesharing system based in Chicago. 
-Analyzed the differences in riding behavior between casual riders and annual members in SQL. 
+Analyzed the differences in riding behavior between casual riders and annual members in SQL. <br/>
 Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMembershipRidingBehavior/DIvvyMembershipRidingData?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link). <br/>
 <img src= "/assets/images/divvy_dashboard.png" width="400"/>
 
