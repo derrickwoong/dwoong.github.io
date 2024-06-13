@@ -8,11 +8,11 @@
 <br/>Insights were visualized on [Tableau](https://public.tableau.com/views/DivvyMembershipRidingBehavior/DIvvyMembershipRidingData?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link).
 
 ## Education
-**University at Buffalo** 
-<br/>_B.A., Economics (August 2022 - Present)_
+**University at Buffalo, SG  (August 2022 - Present)** 
+<br/>_B.A., Economics_
 
-**Nanyang Polytechnic, SG**
-<br/>*Diploma, Business Intelligence and Analytics (May2016 - May 2019)*
+**Nanyang Polytechnic, SG  (May 2016 - May 2019)**
+<br/>*Diploma, Business Intelligence and Analytics*
 
 ## Leadership and Activities
 **SIM Business Strategy Club**
