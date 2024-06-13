@@ -17,11 +17,9 @@
 ## Leadership and Activities
 **SIM Business Strategy Club**
 <br/>_Head-of-Training (June 2024 - Present)_
-
 <br/>_Associate (October 2023 - June 2024)_
 - Participated in the Singapore Business Case Competition 2024 and the Singapore Insurance Case Competition 2024
 
 ## Certifications
-**Google Data Analytics Professional Certificate**
-<br/>
-**CFA Institute Investment Foundations**
+- Google Data Analytics Professional Certificate
+- CFA Institute Investment Foundations
