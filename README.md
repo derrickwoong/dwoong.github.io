@@ -1,5 +1,5 @@
 # Data Portfolio
-#### Technical Skills: SQL, R, Python (Upcoming!)**
+#### Technical Skills: SQL, R, Tableau
 
 ## Data Projects
 ### Google Data Analytics Certificate Capstone
