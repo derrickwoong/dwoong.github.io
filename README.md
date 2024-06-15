@@ -1,6 +1,6 @@
 # Data Portfolio
 #### Technical Skills: SQL, R, Tableau
-#### Current Goal: PL-300 Microsoft Power BI Data Analyst Certification
+#### Current Goal! - PL-300 Microsoft Power BI Data Analyst Certification
 ## Data Projects
 ### Google Data Analytics Certificate Capstone
 [[ Documentation ]](https://github.com/derrickwoong/dwoong.github.io/tree/main/assets/docs/divvy_documentation.pdf)  [[ Dataset ]](https://github.com/derrickwoong/dwoong.github.io/tree/main/assets/datasets/divvy)<br/>
