@@ -23,6 +23,8 @@ _Associate | (October 2023 - June 2024)_
 - Participated in the Singapore Business Case Competition 2024 and the Singapore Insurance Case Competition 2024
 
 ## Certifications
+
+## Certificates of Completion
 **Google Data Analytics Professional Certificate**<br/>
 _Credential ID: [SCYNYYCTL542](https://www.coursera.org/account/accomplishments/professional-cert/SCYNYYCTL542)_
 
