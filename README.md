@@ -3,7 +3,7 @@
 #### My current goal is to be a certified Microsoft Power BI Data Analyst by passing the PL-300 exam by the end of 2024! 
 ## Data Projects
 ### Google Data Analytics Certificate Capstone
-**Customer Market Analysis** <br/>
+### Customer Market Analysis
 [[ Documentation ]](https://github.com/derrickwoong/dwoong.github.io/tree/main/assets/docs/divvy_documentation.pdf)  [[ Dataset ]](https://github.com/derrickwoong/dwoong.github.io/tree/main/assets/datasets/divvy)<br/>
 - Analyzed customer behaviors using SQL to identify potential customer conversion opportunities.
 - Created a dynamic dashboard using [[ Tableau ]](https://public.tableau.com/views/DivvyMembershipRidingBehavior/DIvvyMembershipRidingData?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link). to display 5 visualizations of market trends.
